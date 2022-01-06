@@ -5,5 +5,5 @@ a repository that store my solution for the HackerRank problems.
 
 ### Table of Solved Challenges
 
-[x] Counting valleys
-[x] Jumping on clouds
+- [x] Counting valleys
+- [x] Jumping on clouds
