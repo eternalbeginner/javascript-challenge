@@ -2,7 +2,7 @@
 	"name": "hackerrank-challenges",
 	"private": true,
 	"scripts": {
-		"test": "jest --watchAll --verbose"
+		"test": "jest --verbose"
 	},
 	"devDependencies": {
 		"@types/jest": "^27.4.0",
